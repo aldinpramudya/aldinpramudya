@@ -1,6 +1,6 @@
 <p align = "center">
   <img
-       width = "1000"
+       width = "850"
        src = "https://initiate.alphacoders.com/images/116/stretched-1920-1080-1169181.jpg?7755"
        >
 </p>
