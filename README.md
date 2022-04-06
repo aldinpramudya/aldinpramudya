@@ -1,7 +1,7 @@
 <p align = "center">
   <img
        width = "850"
-       src = "https://initiate.alphacoders.com/images/116/stretched-1920-1080-1169181.jpg?7755"
+       src = "https://www.kibrispdr.org/data/anime-banner-36.jpg"
        >
 </p>
 
