@@ -1,3 +1,5 @@
+![banner](https://initiate.alphacoders.com/images/116/stretched-1920-1080-1169181.jpg?7755)
+
 # Hi There ! My name Aldin Ariel Pramudya
 
 ## Student of some PolyTechnic in East Java
