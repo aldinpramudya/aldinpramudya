@@ -12,4 +12,4 @@
 - Using Java, HTML, CSS, period.
 
 ## Connect With Me
-![Twitter](https://twitter.com/aldinpramudya#gh-light-mode-only)
+[Twitter](https://twitter.com/aldinpramudya)
