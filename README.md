@@ -5,11 +5,12 @@
        >
 </p>
 
-# Hi There ! My name Aldin Ariel Pramudya
+# Hi There ! My name Aldin Ariel Pramudya 👋
 
 ## Student of some PolyTechnic in East Java
-- Indonesian native
-- Using Java, HTML, CSS, period.
+- 🕹Watch some animes, play some games, learn something new
+- 🌱Indonesian native
+- 🔭Using Java, HTML, CSS, period.
 
 ## Connect With Me
 - [Twitter](https://twitter.com/aldinpramudya)
