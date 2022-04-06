@@ -12,4 +12,5 @@
 - Using Java, HTML, CSS, period.
 
 ## Connect With Me
-[Twitter](https://twitter.com/aldinpramudya)
+- [Twitter](https://twitter.com/aldinpramudya)
+- [Instagram](https://instagram.com/aldin.pramudya)
