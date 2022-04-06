@@ -1,7 +1,7 @@
 <p align = "center">
   <img
        width = "850"
-       src = "https://www.kibrispdr.org/data/anime-banner-36.jpg"
+       src = "https://i.pinimg.com/originals/be/67/c3/be67c3b1bf4ed45d9efb7c152e38bfbc.jpg"
        >
 </p>
 
