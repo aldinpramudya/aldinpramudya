@@ -8,7 +8,7 @@
 # Hi There ! My name Aldin Ariel Pramudya 👋
 
 ## Student of some PolyTechnic in East Java 🏙
-- 🕹Watch some animes, play some games, learn something new
+- 🕹Learn | failed | success | repeat
 - 🌱Indonesian native
 - 🔭Using Java, HTML, CSS, period.
 
