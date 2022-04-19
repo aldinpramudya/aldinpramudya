@@ -15,3 +15,4 @@
 ## Connect With Me📲
 - [Twitter](https://twitter.com/aldinpramudya)
 - [Instagram](https://instagram.com/aldin.pramudya)
+- [LinkedIn](https://www.linkedin.com/in/aldin-ariel-pramudya-832037238/)
