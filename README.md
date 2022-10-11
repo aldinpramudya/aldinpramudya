@@ -1,6 +1,6 @@
 <p align = "center">
   <img
-       width = "850"
+       width = "600"
        src = "https://i.pinimg.com/originals/9b/c0/31/9bc031ded28a4eccb4a3f1df621ff84d.png"
        >
 </p>
