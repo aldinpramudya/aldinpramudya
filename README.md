@@ -1,7 +1,7 @@
 <p align = "center">
   <img
        width = "850"
-       src = "https://i.pinimg.com/originals/be/67/c3/be67c3b1bf4ed45d9efb7c152e38bfbc.jpg"
+       src = "https://i.pinimg.com/originals/9b/c0/31/9bc031ded28a4eccb4a3f1df621ff84d.png"
        >
 </p>
 
