@@ -10,7 +10,7 @@
 ## Student of some PolyTechnic in East Java 🏙
 - 🕹Learn | failed | success | repeat
 - 🌱Indonesian native
-- 🔭Using Java, HTML, CSS, period.
+- 🔭Using Java, Javascript, period.
 
 ## Connect With Me📲
 - [Twitter](https://twitter.com/aldinpramudya)
