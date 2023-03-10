@@ -7,7 +7,7 @@
 
 # Hi There ! My name Aldin Ariel Pramudya 👋
 
-## Student of some PolyTechnic in East Java 🏙
+## Student of some Polytechnic in East Java 🏙
 - 🕹Learn | failed | success | repeat
 - 🌱Indonesian native
 - 🔭Using Java, Javascript, period.
