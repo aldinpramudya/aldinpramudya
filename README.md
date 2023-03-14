@@ -1,16 +1,9 @@
 <p align = "center">
   <img
        width = "600"
-       src = "https://i.pinimg.com/originals/9b/c0/31/9bc031ded28a4eccb4a3f1df621ff84d.png"
+       src = "https://media.tenor.com/RvTpwISwjjkAAAAd/saber-artoria-pendragon.gif"
        >
 </p>
-
-# Hi There ! My name Aldin Ariel Pramudya 👋
-
-## Student of some Polytechnic in East Java 🏙
-- 🕹Learn | failed | success | repeat
-- 🌱Indonesian native
-- 🔭Using Java, Javascript, period.
 
 ## Connect With Me📲
 - [Twitter](https://twitter.com/aldinpramudya)
