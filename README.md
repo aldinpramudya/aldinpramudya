@@ -5,7 +5,7 @@
        >
 </p>
 
-<p align = "center">You can call me aldin. or kyra(forget it, just call me aldin)</p>
+<p align = "center">You can call me aldin. or kyra (forget it, just call me aldin)</p>
 
 <p align = "center">
   <a href="https://twitter.com/aldinpramudya">Twitter</a>
