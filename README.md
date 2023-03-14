@@ -1,6 +1,6 @@
 <p align = "center">
   <img
-       width = "300"
+       width = "400"
        src = "https://media.tenor.com/0uKy0kcOe_wAAAAC/saber-saber-fate.gif"
        >
 </p>
