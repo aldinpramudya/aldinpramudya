@@ -1,9 +1,4 @@
-<p align = "center">
-  <img
-       width = "500"
-       src = "https://media.tenor.com/TxOLuusc9LIAAAAC/pout-hmph.gif"
-       >
-</p>
+
 
 <p align = "center">You can call me aldin. or kyra (forget it, just call me aldin)</p>
 
