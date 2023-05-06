@@ -2,7 +2,7 @@
   <img src = "https://media.tenor.com/kH6dk6_voIUAAAAS/eating-saber.gif">
 </p>
 
-<p align = "center">You can call me aldin. or pramudya (forget it, just call me aldin)</p>
+<p align = "center">You can call me kyramasho ;)</p>
 
 <p align = "center">
   <a href="https://twitter.com/aldinpramudya" target="_blank">Twitter</a>
