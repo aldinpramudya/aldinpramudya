@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src = "https://media.tenor.com/uuVoKj5YhYQAAAAC/fate-grand-order-fate-zero.gif" width="500">
+  <img src = "https://media.tenor.com/uuVoKj5YhYQAAAAC/fate-grand-order-fate-zero.gif" width="300">
 </p>
 
 <p align = "center">You can call me kyramasho ;)</p>
