@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src = "https://media.tenor.com/kH6dk6_voIUAAAAS/eating-saber.gif">
+  <img src = "https://media.tenor.com/kH6dk6_voIUAAAAS/eating-saber.gif" width="500">
 </p>
 
 <p align = "center">You can call me kyramasho ;)</p>
