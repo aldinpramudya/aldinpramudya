@@ -3,7 +3,7 @@
   <img src = "https://media.tenor.com/YwHt39jvC2oAAAAC/mashu-kyrielight-fate.gif" width="500">
 </p>
 
-  <p align = "center">name's riel, who likes to learn new things especially codes, japan(pfft weebs) and any tech related field. currently pursue my bachelor degree in Informatics Engineering🔭.<br></p>
+  <p align = "center">name's riel, i like to learn new things or dive to something interesting especially on codes, japan(pfft weebs) and any tech related field. currently pursue my bachelor degree in Informatics Engineering🔭.<br></p>
 
 <h1 align="center">ＳＫＩＬＬＳ　（ツレッ）, period. (More to coming)</h1>
 <p align="center">
