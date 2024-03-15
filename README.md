@@ -1,6 +1,6 @@
 <h1 align="center">Hello 💠, I'm Riel 🙋‍♂️</h1>
 <p align = "center">
-  <img src = "https://media.tenor.com/YwHt39jvC2oAAAAC/mashu-kyrielight-fate.gif" width="600">
+  <img src = "https://media.tenor.com/YwHt39jvC2oAAAAC/mashu-kyrielight-fate.gif" width="500">
 </p>
 
   <p align = "center">name's Aldin Ariel Pramudya, who likes to learn new things especially codes, japan(pfft weebs) and any tech related field. currently pursue my bachelor degree in Informatics Engineering🔭.<br></p>
