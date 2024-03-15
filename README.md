@@ -9,3 +9,5 @@
   - <a href="https://instagram.com/aldin.pramudya" target="_blank">Instagram</a>
   - <a href="https://www.linkedin.com/in/aldin-ariel-pramudya-832037238/" target="_blank">LinkedIn</a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldinpramudya)](https://github.com/aldinpramudya/github-readme-stats)
