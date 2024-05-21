@@ -1,9 +1,9 @@
 <h1 align="center">Hello 💠, I'm Riel 🙋‍♂️</h1>
 <p align = "center">
-  <img src = "https://media.tenor.com/YwHt39jvC2oAAAAC/mashu-kyrielight-fate.gif" width="500">
+  <img src = "https://media.tenor.com/YwHt39jvC2oAAAAC/mashu-kyrielight-fate.gif" width="300">
 </p>
 
-  <p align = "center">name's riel, i like to learn new things or dive to something interesting especially on codes, japan(pfft weebs) and any tech related field. currently pursue my bachelor degree in Informatics Engineering🔭.<br></p>
+  <p align = "center">learning...<br></p>
 
 <h1 align="center">ＳＫＩＬＬＳ　（ツレッ）, period. (More to coming)</h1>
 <p align="center">
@@ -11,7 +11,6 @@
   <img style="margin: 5px" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <br>
   <img style="margin: 5px" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> 
   <img style="margin: 5px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img style="margin: 5px" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 <br>
 
