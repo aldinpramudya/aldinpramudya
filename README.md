@@ -27,8 +27,6 @@
 <h1 align="center">Ｃ♢ＮＴΛＣＴ　（クダス）</h1>
 <img align="right" width="400" src="https://media1.tenor.com/m/OOgv_qDt_8gAAAAC/anime-goldentime.gif" />
 
-You can email me here: aldinarielpramudya@gmail.com
-<br><br>
 You can also see me in here : 
 
 [![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldinpramudya)
