@@ -1,20 +1,7 @@
-<h1 align="center">Hello 💠, I'm Riel 🙋‍♂️</h1>
+<h1 align="center">Hello , I'm Riel </h1>
 <p align = "center">
   <img src = "https://media.tenor.com/YwHt39jvC2oAAAAC/mashu-kyrielight-fate.gif" width="300">
 </p>
-
-  <p align = "center">learning...<br></p>
-
-<h1 align="center">ＳＫＩＬＬＳ　（ツレッ）, period. (More to coming)</h1>
-<p align="center">
-  <img style="margin: 5px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img style="margin: 5px" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <br>
-  <img style="margin: 5px" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> 
-  <img style="margin: 5px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-<br>
-
-
 <h1 align="center">ＳＴΛＴＳ　（往オょ）</h1>
 <a href="https://github.com/aldinpramudya/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aldinpramudya&show_icons=true&theme=dracula&rank_icon=github&custom_title=GitLogs" />
