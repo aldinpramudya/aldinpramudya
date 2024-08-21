@@ -14,14 +14,13 @@
 <h1 align="center">Ｃ♢ＮＴΛＣＴ　（クダス）</h1>
 <img align="right" width="400" src="https://media1.tenor.com/m/OOgv_qDt_8gAAAAC/anime-goldentime.gif" />
 
-You can also see me in here : 
+Get in touch with me more through here : 
 
-[![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldinpramudya)
 [![](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/742890878984650822)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldinarielpramudya/)
 <br><br>
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldinarielpramudya@gmail.com)
-[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/arcuied__/)
+[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aldin.pramudya/)
 
 
 
