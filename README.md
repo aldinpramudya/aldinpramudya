@@ -1,7 +1,15 @@
-<h1 align="center">Hello , I'm Riel </h1>
-<p align = "center">
-  <img src = "https://media.tenor.com/YwHt39jvC2oAAAAC/mashu-kyrielight-fate.gif" width="300">
-</p>
+![Header](./github-header-image.png)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+         Heyy 🙋‍♂️, i'm Riel
+      </h1>
+    </summary>
+  </ul>
+</div>
+
 <h1 align="center">ＳＴΛＴＳ　（往オょ）</h1>
 <a href="https://github.com/aldinpramudya/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aldinpramudya&show_icons=true&theme=dracula&rank_icon=github&custom_title=GitLogs" />
