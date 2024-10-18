@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./riel-banner.png)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
