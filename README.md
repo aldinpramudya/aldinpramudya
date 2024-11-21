@@ -4,13 +4,13 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-         Heyy 🙋‍♂️, i'm Riel
+         Call me Riel🍙
       </h1>
     </summary>
   </ul>
 </div>
 
-<h1 align="center">ＳＴΛＴＳ　（往オょ）</h1>
+<h1 align="center">STATS</h1>
 <a href="https://github.com/aldinpramudya/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aldinpramudya&show_icons=true&theme=dracula&rank_icon=github&custom_title=GitLogs" />
 </a>
@@ -19,7 +19,7 @@
 </a>
 <br><br>
 
-<h1 align="center">Ｃ♢ＮＴΛＣＴ　（クダス）</h1>
+<h1 align="center">CONTACTS</h1>
 <img align="right" width="400" src="https://media1.tenor.com/m/OOgv_qDt_8gAAAAC/anime-goldentime.gif" />
 
 Get in touch with me more through here : 
