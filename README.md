@@ -29,6 +29,8 @@ Get in touch with me more through here :
 <br><br>
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldinarielpramudya@gmail.com)
 [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aldin.pramudya/)
+<br><br>
+[![](https://visitcount.itsvg.in/api?id=aldinpramudya&label=Profile%20Visit&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 
