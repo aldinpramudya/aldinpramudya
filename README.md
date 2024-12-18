@@ -1,5 +1,16 @@
 ![Header](./riel-banner.png)
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/aldinpramudya?pet-id=657025332021945244"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
+
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -31,6 +42,7 @@ Get in touch with me more through here :
 [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aldin.pramudya/)
 <br><br>
 [![](https://visitcount.itsvg.in/api?id=aldinpramudya&label=Profile%20Visit&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 
 
