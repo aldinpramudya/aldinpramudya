@@ -15,7 +15,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-         Call me Riel🍙
+       Call me Riel 
       </h1>
     </summary>
   </ul>
