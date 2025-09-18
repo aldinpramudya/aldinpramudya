@@ -21,15 +21,6 @@
   </ul>
 </div>
 
-<h1 align="center">STATS</h1>
-<a href="https://github.com/aldinpramudya/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aldinpramudya&show_icons=true&theme=dracula&rank_icon=github&custom_title=GitLogs" />
-</a>
-<a href="https://github.com/aldinpramudya/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldinpramudya&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
-<br><br>
-
 <h1 align="center">CONTACTS</h1>
 <img align="right" width="400" src="https://media1.tenor.com/m/OOgv_qDt_8gAAAAC/anime-goldentime.gif" />
 
