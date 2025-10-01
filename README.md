@@ -1,16 +1,4 @@
 ![Header](./riel-banner.png)
-
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/aldinpramudya?pet-id=657025332021945244"
-    width="600"
-    height="120"
-  />
-</a>
-  
-
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
