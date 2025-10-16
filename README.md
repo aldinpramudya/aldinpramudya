@@ -2,7 +2,7 @@
 <h1 align="center"># Hi 👋, I'm Riel</h1>
 
 
-### full learning developer
+### full learning developer⌨🖱
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
