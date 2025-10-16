@@ -1,5 +1,5 @@
 ![Header](./riel-banner.png)
-<h1 align="center"># Hi 👋, I'm riel</h1>
+<h1 align="center"># Hi 👋, I'm Riel</h1>
 
 
 ### full learning developer
